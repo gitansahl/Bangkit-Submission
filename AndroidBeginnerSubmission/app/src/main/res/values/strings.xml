@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">Alice in Borderland Cast</string>
+
+    <string name="real_name">Nama Asli</string>
+    <string name="series_name">Nama pada Series</string>
+    <string name="birth_date">Tanggal Lahir</string>
+    <string name="description">Deskripsi</string>
+    <string name="profile">Profile</string>
+    <string name="about_name">Gitan Sahl Tazakha Wijaya</string>
+    <string name="email">gitan.sahl@ui.ac.id</string>
+    <string name="share">Share</string>
+
+    <string-array name="real_names">
+        <item>Tao Tsuchiya</item>
+        <item>Kento Yamazaki</item>
+        <item>Nijirô Murakami</item>
+        <item>Ayaka Miyoshi</item>
+        <item>Dori Sakurada</item>
+        <item>Ayame Misaki</item>
+        <item>Tomohisa Yamashita</item>
+        <item>Riisa Naka</item>
+        <item>Sho Aoyagi</item>
+        <item>Keita Machida</item>
+    </string-array>
+
+    <string-array name="series_names">
+        <item>Yuzuha Usagi</item>
+        <item>Ryohei Arisu</item>
+        <item>Shuntaro Chisiya</item>
+        <item>Ann</item>
+        <item>Niragi</item>
+        <item>Saori Shibuki</item>
+        <item>Ginji Kyuma</item>
+        <item>Mira</item>
+        <item>Aguni Morizono</item>
+        <item>Daikichi Karube</item>
+    </string-array>
+
+    <string-array name="birth_dates">
+        <item>3 Februari 1995</item>
+        <item>7 September 1994</item>
+        <item>17 Maret 1997</item>
+        <item>18 Juni 1996</item>
+        <item>7 Desember 1991</item>
+        <item>26 April 1989</item>
+        <item>9 April 1985</item>
+        <item>18 Oktober 1989</item>
+        <item>12 April 1985</item>
+        <item>4 Juli 1990</item>
+    </string-array>
+
+    <string-array name="descriptions">
+        <item>A Japanese actress, model, dancer, lyricist and singer. She is best known for her memorable role of Makimachi Misao in the movie series Rurouni Kenshin, as Mai Nakahara in The 8-Year Engagement, Koharu in The Cinderella Addiction and most recently as Yuzuha Usagi in Netflix\'s Alice in Borderland. Her older sister, Honoka, works as a model, while her younger brother, Shimba Tsuchiya, is also an actor.</item>
+        <item>A Japanese actor and model. He is best known for his roles in the films L DK (2014), No Longer Heroine (2015), Orange (2015), and Kingdom (2019), as well as the TV shows Death Note (2015), Kiss That Kills (2018), Good Doctor (2018), and the Netflix series Alice in Borderland (2020–present). He is under the Japanese talent agency Stardust Promotion.</item>
+        <item>A Japanese actor. He is best known for his role as Kaito in the 2014 romance film Still the Water, which was selected to compete for the Palme d\'Or at the 2014 Cannes Film Festival. Murakami\'s role as an undercover in Last of the Wolves (2021) received critical acclaim and earned him a Best Supporting Actor nomination at the 45th Japan Academy Film Prize. He also gained international popularity for his role as Shuntaro Chishiya in Netflix\'s survival drama Alice in Borderland (2020–2022).</item>
+        <item>A Japanese actress, model, and former idol. She is represented by the talent agency Amuse, Inc. and from 2010 to 2012 was a member of the agency\'s girl group Sakura Gakuin.</item>
+        <item>A Japanese actor and singer. He is best known for his role as Ryoma Echizen as part of the third generation Seigaku cast in The Prince of Tennis musicals, Tenimyu.</item>
+        <item>A Japanese actress who is affiliated with Horipro. She originally debuted in magazines of gravure and variety shows, then later working as an actress. She is well known for portraying Miki in Cutie Honey: The Live.</item>
+        <item>A Japanese singer, actor, and TV host. He joined the Japanese talent agency Johnny &amp; Associates as a trainee in 1996 (age 11) and made his small acting debut for NHK\'s Shonentachi (1998).</item>
+        <item>A Japanese actress. She was given a Best New Talent award at the 2009 Yokohama Film Festival. Naka became famous by appearing in Hachi One Diver (2008) and played the lead, Hana Adachi, in Yankee-kun to Megane-chan (2010).</item>
+        <item>A Japanese actor who is represented by the talent agency, LDH. He is a member of Gekidan Exile.</item>
+        <item>A Japanese actor. He is a member of the theater group Gekidan Exile. Machida is represented with LDH.</item>
+    </string-array>
+
+    <string-array name="photos">
+        <item>https://asianwiki.com/images/2/2d/Tao_Tsuchiya-p03.jpg</item>
+        <item>https://asianwiki.com/images/e/ee/Kento_Yamazaki-p02.jpg</item>
+        <item>https://asianwiki.com/images/c/ce/Nijiro_Murakami-p02.jpg</item>
+        <item>https://asianwiki.com/images/a/ad/Dance_with_Me-a00.jpg</item>
+        <item>https://asianwiki.com/images/d/d7/Dori_Sakurada-p02.jpg</item>
+        <item>https://asianwiki.com/images/5/50/Ayame_Misaki-p1.jpg</item>
+        <item>https://asianwiki.com/images/7/7f/Tomohisa-Yamashita-p1.jpg</item>
+        <item>https://asianwiki.com/images/f/f1/Riisa_Naka-BIFF-p2.jpg</item>
+        <item>https://asianwiki.com/images/e/ee/Sho_Aoyagi-p3.jpg</item>
+        <item>https://asianwiki.com/images/6/61/Keita_Machida-p01.jpg</item>
+    </string-array>
+</resources>

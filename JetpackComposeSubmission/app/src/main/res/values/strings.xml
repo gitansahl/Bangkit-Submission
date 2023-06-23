@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Alice in Borderland Cast</string>
+    <string name="played_as">as %s</string>
+    <string name="back">Back</string>
+    <string name="name">Gitan Sahl Tazakha Wijaya</string>
+    <string name="birth_date">15 April 2002</string>
+    <string name="email">gitan.sahl@ui.ac.id</string>
+    <string name="university">Universitas Indonesia</string>
+    <string name="major">Sistem Informasi</string>
+    <string name="profile">about_page</string>
+</resources>

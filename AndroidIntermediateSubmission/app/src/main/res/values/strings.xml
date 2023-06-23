@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MyStoryApp</string>
+    <string name="signup">Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="item_name">Item Name</string>
+    <string name="item_description">Item Description</string>
+    <string name="logout">Logout</string>
+    <string name="enter_email">Masukkan email</string>
+    <string name="name">Nama</string>
+    <string name="enter_name">Masukkan nama</string>
+    <string name="add_story">Tambah Story</string>
+    <string name="gallery">Galeri</string>
+    <string name="camera">Kamera</string>
+    <string name="upload">Unggah</string>
+    <string name="enter_description">Masukkan deskripsi</string>
+    <string name="dont_have_acc">Belum Punya Akun?</string>
+    <string name="alr_have_acc">Sudah Punya Akun?</string>
+    <string name="retry">Coba lagi</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="map">Map</string>
+</resources>
